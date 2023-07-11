@@ -60,7 +60,7 @@ const createScene = () => {
 
   const explosions = initExplosions(app, rootContainer);
   rootContainer.addChild(explosions);
-  
+
   return app;
 };
 
